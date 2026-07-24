@@ -2851,6 +2851,7 @@
     "body": [
       "Hay 168 horas en una semana.",
       "Las encuestas nos indican que la persona promedio usa su tiempo de la siguiente manera:",
+      "",
       "56 horas para dormir",
       "40 horas para trabajar",
       "35 televisión, Internet, deportes",
@@ -2861,6 +2862,7 @@
       "5 compras",
       "2 actividades comunitarias y religiosas",
       "Con razón la gente tiene tantos problemas...",
+      "",
       "¡Ellos dan menos del 1.19% de su tiempo a DIOS!"
     ],
     "affirmation": "Tú ocupas el primer lugar en mi vida, mi querido Padre Celestial.",
@@ -2874,11 +2876,17 @@
     "title": "COSAS ESPECIALES",
     "body": [
       "Creo que Dios inspiró el chocolate.",
-      "¿Verdad que no hay nada más rico? ¿Hay nada más sabroso? El chocolate es único. El chocolate es especial.",
+      "¿Verdad que no hay nada más rico? ¿Hay nada más sabroso? El chocolate es único.",
+      "El chocolate es especial.",
+      "",
       "Creo que Dios creó las rosas.",
-      "¿Verdad que no hay nada más hermoso? ¿Hay algo más fragante? Las rosas son divinas. Las rosas son especiales.",
+      "¿Verdad que no hay nada más hermoso? ¿Hay algo más fragante? Las rosas son divinas.",
+      "Las rosas son especiales.",
+      "",
       "Creo que Dios creó a los bebés.",
-      "¿Verdad que no hay nada más puro? ¿No hay nada más celestial que un pequeño bebé? Los bebés recién nacidos son angelitos caídos del Cielo. Son especiales.",
+      "¿Verdad que no hay nada más puro? ¿No hay nada más celestial que un pequeño bebé? Los bebés recién nacidos son angelitos caídos del Cielo.",
+      "Son especiales.",
+      "",
       "Creo que Dios nos creó a ti y a mí.",
       "Dios nos creó para amar. Dios nos creó para reflejar Su amor al mundo.",
       "¡Creo que SOMOS muy especiales!"
@@ -3320,7 +3328,8 @@
       "A todos nos gusta comer, beber y divertirnos. Nos gusta el deporte, la playa, el cine... Muchas cosas. También creemos en Dios, o así decimos.",
       "Pero, ¿cómo es que encontramos tanto tiempo para hacer todas las cosas que queremos, sin embargo, encontramos tan poco tiempo para Dios?",
       "No se trata de si asistimos a una iglesia o no. No se trata de mantener una apariencia de piedad.",
-      "Debemos preguntarnos: ¿Hasta qué punto dejamos que Dios nos guíe durante el día? ¿Qué tanto somos una bendición para los demás? ¿Cuánto tiempo dedicamos a cosas que no perdurarán? y ¿Cuánto tiempo dedicamos a cosas que son eternas?"
+      "Debemos preguntarnos: ¿Hasta qué punto dejamos que Dios nos guíe durante el día? ¿Qué tanto somos una bendición para los demás?",
+      "¿Cuánto tiempo dedicamos a cosas que no perdurarán? y ¿Cuánto tiempo dedicamos a cosas que son eternas?"
     ],
     "affirmation": "Apenas me despierto dirijo mis pensamientos hacia Ti Señor en la oración. Leo Tu Palabra y a lo largo de mi día Tú me guías.",
     "verse": "\"Pon la mira en las cosas de arriba, no en las de la tierra.\" (Colosenses 3:2)"
@@ -3427,7 +3436,8 @@
     "dateLabel": "30 de julio",
     "title": "UNA ORACIÓN NOCTURNA",
     "body": [
-      "Dormir es algo curioso: Te acuestas, cierras los ojos y quizás tienes sueños. De repente, te despiertas después de haber tomado un viaje a un lugar lejano y desconocido. Pasaron varias horas, pero para ti parecen unos breves momentos.",
+      "Dormir es algo curioso:",
+      "Te acuestas, cierras los ojos y quizás tienes sueños. De repente, te despiertas después de haber tomado un viaje a un lugar lejano y desconocido. Pasaron varias horas, pero para ti parecen unos breves momentos.",
       "A lo largo de la Biblia, Dios habló a Sus profetas e hijos por medio de los sueños.",
       "¿Por qué dormimos? Bueno, además de la razón obvia de recargar nuestras fuerzas, algunas personas creen que Dios inventó el sueño para evitar que el hombre cometiera demasiada maldad. Para mantenerle a raya. ¿Quién sabe?",
       "Sea cual sea la razón por la cual dormimos, es una buena idea orar antes de acostarte, para pedirle al Señor que te cuide y para pedir que Él proteja tus sueños.",
@@ -3509,13 +3519,10 @@
     "body": [
       "Mataron los mares.",
       "De piel ya no hacemos abrigos. Salvamos las culebras, los cocodrilos y las ballenas.",
-      "Contaminamos nuestras ciudades. Destruimos nuestros bosques.",
-      "Botamos nuestros plásticos a los ríos. Y matamos a nuestro prójimo.",
+      "Contaminamos nuestras ciudades. Destruimos nuestros bosques. Botamos nuestros plásticos a los ríos. Y matamos a nuestro prójimo.",
       "Nuestra prensa nos miente.",
-      "La religión ha perdido sentido. El sistema está corrupto.",
-      "Nuestra música es puro ruido.",
-      "Los terremotos aumentan.",
-      "Y la avaricia, el odio y el temor. Los valores se desintegran.",
+      "La religión ha perdido sentido. El sistema está corrupto. Nuestra música es puro ruido.",
+      "Los terremotos aumentan. Y la avaricia, el odio y el temor. Los valores se desintegran.",
       "Todo se degenera.",
       "¡Bienvenido al MUNDO DEL HOMBRE!"
     ],
@@ -3546,7 +3553,8 @@
     "body": [
       "¿Te das cuenta que la mayoría de las cosas por las cuales nos preocupamos, nunca suceden?",
       "¿Por qué nos preocupamos tanto?",
-      "Nosotros sí podemos encontrar un lugar de paz y el reposo que tanto anhelamos. Dios SÍ está en control y todo saldrá bien. Pero primero hay que entregárselo todo,",
+      "Nosotros sí podemos encontrar un lugar de paz y el reposo que tanto anhelamos.",
+      "Dios SÍ está en control y todo saldrá bien. Pero primero hay que entregárselo todo,",
       "¡Y CONFIAR!"
     ],
     "affirmation": "Yo te entrego a Ti todas mis preocupaciones Señor. En Ti confío.",
@@ -3813,10 +3821,8 @@
       "Una inflación fuera de control, los desastres naturales, los medios informativos engañosos.",
       "Los políticos sin escrúpulos, la pérdida de la integridad y la avaricia descarada.",
       "Todo va cayéndose, para abajo, para abajo se cae.",
-      "El crimen está en aumento. Crece el terror.",
-      "La desconfianza abunda y las plagas, las drogas y la violencia.",
-      "Muchos buscan respuestas y una razón para vivir.",
-      "Se pierden. Sin amor, sin esperanza.",
+      "El crimen está en aumento. Crece el terror. La desconfianza abunda y las plagas, las drogas y la violencia.",
+      "Muchos buscan respuestas y una razón para vivir. Se pierden. Sin amor, sin esperanza.",
       "El mundo va cada vez más rápido. Más loco.",
       "Solo el amor de Dios nos puede salvar."
     ],
@@ -4055,10 +4061,12 @@
     "dateLabel": "7 de septiembre",
     "title": "¡NADA!",
     "body": [
-      "Vas a un concierto, pagas la entrada, disfrutas el show y al día siguiente lo has olvidado. Vas a un partido de fútbol, pagas la entrada, ves el juego y al día siguiente lo has olvidado. Vas a la iglesia, disfrutas la música y el sermón, das una ofrenda y al día siguiente lo has olvidado. ESO no es lo que significa ser un creyente. Eso es ser *iglesiero*. Asistir a una iglesia no te hace un cristiano.",
+      "Vas a un concierto, pagas la entrada, disfrutas el show y al día siguiente lo has olvidado. Vas a un partido de fútbol, pagas la entrada, ves el juego y al día siguiente lo has olvidado.",
+      "Vas a la iglesia, disfrutas la música y el sermón, das una ofrenda y al día siguiente lo has olvidado. ESO no es lo que significa ser un creyente. Eso es ser *iglesiero*. Asistir a una iglesia no te hace un cristiano.",
       "Igual, estar en un garaje no te convierte en un carro, ni beber leche te convierte en un ternero. Asistir a una iglesia se ha convertido en un simple acto social para muchas personas.",
       "El mundo no necesita más iglesieros. El mundo necesita más verdaderos cristianos.",
-      "El verdadero cristianismo se trata de tener una relación personal con Jesucristo. Es ponerte en sintonía con Dios y dejar que Él tome las riendas de tu vida. Es vivir con el amor de Dios para con tu semejante. Nada es más digno de alabanza.",
+      "El verdadero cristianismo se trata de tener una relación personal con Jesucristo. Es ponerte en sintonía con Dios y dejar que Él tome las riendas de tu vida. Es vivir con el amor de Dios para con tu semejante.",
+      "Nada es más digno de alabanza.",
       "NADA es más noble."
     ],
     "affirmation": "Conocerte mas cada día es mi único deseo, Señor Jesús.",
@@ -4271,7 +4279,8 @@
     "dateLabel": "20 de septiembre",
     "title": "¿QUÉ HARÁ FALTA?",
     "body": [
-      "Qué curioso es cómo en medio de una enfermedad o desastre natural la gente se pone a orar. Cuando las cosas se ponen difíciles, gente que normalmente nunca ora, de repente ora y clama a Dios por Su protección y ayuda.",
+      "Qué curioso es cómo en medio de una enfermedad o desastre natural la gente se pone a orar.",
+      "Cuando las cosas se ponen difíciles, gente que normalmente nunca ora, de repente ora y clama a Dios por Su protección y ayuda.",
       "Parece que solo por medio de los problemas, las enfermedades y las tragedias, algunas personas claman al Señor. Lo triste es que, ellos pierden mucho por no buscar a Dios y Su ayuda durante los buenos tiempos.",
       "¿Qué hará falta para que *tú* ores?",
       "Si tú ya estás cerca al Señor, no tienes nada de qué preocuparte."
@@ -4288,7 +4297,8 @@
     "body": [
       "Entre la gente que cree en Dios, hay muchos que están bien confusos.",
       "¡Hay muchos fanáticos, extremistas y locos religiosos en este mundo!",
-      "Muchos de ellos piensan tener la única verdad. Piensan que solo ellos tienen la verdad, se creen justos y que Dios está con ellos más que con los demás. Promueven sus creencias políticas, el racismo, odio, guerra, violencia y el fanatismo. Todo en el nombre de su religión.",
+      "Muchos de ellos piensan tener la única verdad. Piensan que solo ellos tienen la verdad, se creen justos y que Dios está con ellos más que con los demás.",
+      "Promueven sus creencias políticas, el racismo, odio, guerra, violencia y el fanatismo. Todo en el nombre de su religión.",
       "Ellos han olvidado el mensaje principal de Jesús... El único mensaje de Jesús:",
       "El AMOR."
     ],
@@ -4729,8 +4739,10 @@
       "Se puede saber mucho del estado espiritual de una persona por la manera en que ora.",
       "Algunas personas oran de manera formal a Dios como si Él fuera severo, rígido y estuviera muy lejos de ellos. Le ven alto, sublime y distante.",
       "Eso describe su relación con Dios.",
+      "",
       "Otros oran a Dios como si Él fuera su mejor amigo. Se sienten a gusto, relajados y cómodos en Su presencia. Ellos tienen a Dios muy de cerca.",
       "Eso describe su relación con Dios.",
+      "",
       "En realidad se puede saber mucho del estado espiritual de una persona por la manera en que ora."
     ],
     "affirmation": "Yo sé que siempre me escuchas Señor, que estás muy cerca y que no tengo nada que temer.",
