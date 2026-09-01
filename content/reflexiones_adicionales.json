@@ -206,8 +206,20 @@
     "affirmation": "Gracias Dios por Tu amor en mi vida y en mi corazón.",
     "verse": "“Ah, dulce misterio de la vida, por fin te he encontrado. Por fin he encontrado la razón de todo.\n\nEs el amor, y solo el amor, lo que todo el mundo anhela. Y es el amor lo que les pide seguir Tu llamado.” (Robert Burns)"
   },
-  {
+   {
     "id": "adicional_14",
+    "title": "MIREMOS HACIA LA LUZ",
+    "body": [
+      "Una compañera de clase de un amigo se mató hace poco. Solo tenía 15 años.",
+      "Hoy en día estamos expuestos a todo tipo de cosas oscuras y negativas. Estas cosas nos rodean. Por eso es importante que elijamos con prudencia.",
+      "Nos convertimos en la suma de lo que asimilamos cada día, ya sea con la música, el arte, las películas, televisión o redes sociales.",
+      "Al igual que una planta, si vivimos en la oscuridad, moriremos. Pero si nos orientamos hacia la LUZ... viviremos."
+    ],
+    "affirmation": "Me centro en las cosas positivas, alegres e inspiradoras y animo a que los demás hagan lo mismo.",
+    "verse": "“No participéis en las obras infructuosas de las tinieblas, sino más bien reprendedlas.” (Efesios 5:11)"
+  },
+  {
+    "id": "adicional_15",
     "title": "LOS MAL-ENCAJADOS",
     "body": [
       "Mucha gente hoy en día siente que no encaja.",
@@ -222,7 +234,7 @@
     "verse": ""
   },
   {
-    "id": "adicional_15",
+    "id": "adicional_16",
     "title": "¡MANTENTE CERCA!",
     "body": [
       "El planeta se está calentando, el océano está subiendo. El ozono se está agotando, el coral está desapareciendo.",
@@ -235,7 +247,7 @@
     "verse": "“En Ti he confiado, oh Dios. En la sombra de Tus alas me ampararé hasta que pasen las calamidades.” (Salmos 57:1)"
   },
   {
-    "id": "adicional_16",
+    "id": "adicional_17",
     "title": "¡EMPIEZA HOY!",
     "body": [
       "Los vientos del cambio están soplando sobre nuestro planeta. Estamos viviendo en un mundo muy diferente al que conocieron nuestros padres. Se está librando una guerra ideológica por las almas y también por los corazones y mentes de los hombres.",
@@ -249,7 +261,7 @@
     "verse": ""
   },
   {
-    "id": "adicional_17",
+    "id": "adicional_18",
     "title": "PARA CONCLUIR…",
     "body": [
       "**En el siguiente pasaje de uno de sus libros maravillosos, Betty Eadie define el amor y nos explica de la forma mas elocuente de qué se trata nuestra vida aquí en la tierra:**",
