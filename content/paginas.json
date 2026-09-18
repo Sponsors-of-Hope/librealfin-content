@@ -65,7 +65,7 @@
   },
   "about_us": {
     "id": "about_us",
-    "title": "ACERCA DE NOSOTROS",
+   "qaHeadingIndex": 2, "title": "ACERCA DE NOSOTROS",
     "noIndent": true,
     "paragraphSpacing": true,
     "body": [
