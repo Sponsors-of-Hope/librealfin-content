@@ -97,5 +97,21 @@
     ],
     "affirmation": "",
     "verse": ""
+  },
+    "recommended_reading": {
+    "id": "recommended_reading",
+    "title": "Libros que Recomendamos",
+    "titleStyle": "bold-italic",
+    "body": [
+      "Los siguientes libros nos han sido una verdadera bendición.",
+      "“He Visto La luz”\nde Betty J. Eadie",
+      "“Despertar a La luz”\nde Betty J. Eadie",
+      "“Eco en El Agua”\nde Betty J. Eadie",
+      "“Morir Para Ser Yo”\nde Anita Moorjani",
+      "“Humildad: La Belleza de La Santidad”\nde Andrew Murray",
+      "“Entrega Absoluta”\nde Andrew Murray",
+      "“El Amor Más Grande”\nde Madre Teresa",
+      "“Haz Algo Hermoso para Dios”\nde Madre Teresa"
+    ]
   }
 }
